@@ -10,5 +10,5 @@ To **download** the repository go to https://github.com/clRE/XMLSchemas
 
 ### View
 
-### ![XML schemas](XML schemas.png)
+### ![XML schemas](https://github.com/clRE/XMLSchemas/blob/master/XML%20schemas.png)
 
