@@ -4,7 +4,7 @@
 
 #### Introduction
 
-This GitHub repository holds XML schemas mentioned in ***Practical Study of Subclasses of Regular Expressions from XML*.** 
+This GitHub repository holds XML schemas mentioned in ***Practical Study of Subclasses of Regular Expressions from XML schemas*.** 
 
 To **download** the repository go to https://github.com/clRE/XMLSchemas 
 
