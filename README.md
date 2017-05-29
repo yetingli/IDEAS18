@@ -1,4 +1,4 @@
-# Practical Study of Subclasses of Regular Expressions from XML Schemas
+# Practical Study of Subclasses of Regular Expressions from XML schemas
 
 ### XML schemas (Section 3)
 
