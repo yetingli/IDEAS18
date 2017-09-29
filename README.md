@@ -1,10 +1,10 @@
-# Practical Study of Subclasses of Regular Expressions from XML schemas
+# A Practical Approach for Solving the Deterministic Regular Expression Construction Problem
 
-### XML schemas (Section 3)
+### XML schemas
 
 #### Introduction
 
-This GitHub repository holds XML schemas mentioned in ***Practical Study of Subclasses of Regular Expressions from XML schemas*.** 
+This GitHub repository holds XML schemas mentioned in ***A Practical Approach for Solving the Deterministic Regular Expression Construction Problem*.** 
 
 To **download** the repository go to https://github.com/clRE/XMLSchemas 
 
