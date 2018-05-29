@@ -1,12 +1,12 @@
-# A Practical Approach for Solving the Deterministic Regular Expression Construction Problem
+# Practical Study of Deterministic Regular Expressions from Large-scale XML and Schema Data
 
 ### XML schemas
 
 #### Introduction
 
-This GitHub repository holds XML schemas mentioned in ***A Practical Approach for Solving the Deterministic Regular Expression Construction Problem*.** 
+This GitHub repository holds XML schemas mentioned in ***Practical Study of Deterministic Regular Expressions from Large-scale XML and Schema Data*.** 
 
-To **download** the repository go to https://github.com/clRE/XMLSchemas 
+To **download** the repository go to https://github.com/yetingli/IDEAS18
 
 ### View
 
