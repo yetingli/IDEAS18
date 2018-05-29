@@ -10,5 +10,5 @@ To **download** the repository go to https://github.com/yetingli/IDEAS18
 
 ### View
 
-### ![XML schemas](https://github.com/clRE/XMLSchemas/blob/master/XML%20schemas.png)
+### ![XML schemas](https://github.com/yetingli/IDEAS18/blob/master/XML%20schemas.png)
 
